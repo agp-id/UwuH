@@ -3,5 +3,5 @@ For ROM UwuH
 
 ## Credits:
 - danda
-- evokes (alwaysstrong)
+- evoker (alwaysstrong)
 - osmosis
