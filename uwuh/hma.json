@@ -1,0 +1,22 @@
+{
+    "target": [
+        "com.android.vending",
+        "com.google.android.gms",
+        "com.bpjstku",
+        "com.bca.mybca.omni.android",
+        "com.apps.MyXL",
+        "id.dana",
+        "com.shopee.id",
+        "id.co.bri.brimo",
+        "com.reveny.nativecheck",
+        "com.telkomsel.telkomselcm"
+    ],
+    "hide": [
+        "com.wn.app.np",
+        "me.weishu.kernelsu",
+        "bin.mt.termex",
+        "io.github.vvb2060.magisk",
+        "me.yuki.folk",
+        "bin.mt.plus"
+    ]
+}
